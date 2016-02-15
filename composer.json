@@ -1,0 +1,17 @@
+{
+	"name": "xavierlatorre2015/Mpwarfwk",
+	"description": "FRAMEWORK",
+	"license": "Apache-2.0",
+	"keywords": [],
+	"homepage": "https://github.com/xavierlatorre2015/Mpwarfwk",
+	"type": "project",
+	"require": {
+		"php": ">=5.3.2"
+	},
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Mpwarfwk\\": "src/Mpwarfwk/"
+		}
+	}
+}
